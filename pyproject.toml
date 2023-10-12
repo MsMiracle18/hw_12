@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "b2-hm11"
+name = "homework 11"
 version = "0.1.0"
 description = ""
-authors = ["Vadim-3 <128088822+Vadim-3@users.noreply.github.com>"]
+authors = ["MsMiracle18 <128088822+MsMiacle18@users.noreply.github.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
